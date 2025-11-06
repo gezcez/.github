@@ -1,5 +1,4 @@
 # Gezcez.com GitHub page
-
 home-made and open source public transit services that can be used across various cities in Türkiye.
 
 ## GOAL
@@ -14,6 +13,6 @@ For detailed information or to hide your data please see our [privacy guide](htt
 
 
 ## extras
-as of 22/06/2025 this project is still WIP
-
+as of 07/11/2025 this project is "planned for future" and will continue being worked on depending on the response from driventure.vc
+(i dont wanna crash someone else's prod for a 1 MAU idea)
 email: [info@gezcez.com](mailto:info@gezcez.com)
